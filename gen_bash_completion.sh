@@ -14,7 +14,7 @@ echo ""
 
 # generate completion
 cat << EOF
-_go2fed()
+_mpo()
 {
     local cur prev opts
     COMPREPLY=()
